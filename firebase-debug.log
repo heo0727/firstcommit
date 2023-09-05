@@ -1,0 +1,21 @@
+[debug] [2023-09-05T08:39:26.783Z] ----------------------------------------------------------------------
+[debug] [2023-09-05T08:39:26.785Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\EZEN\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-09-05T08:39:26.786Z] CLI Version:   12.5.2
+[debug] [2023-09-05T08:39:26.786Z] Platform:      win32
+[debug] [2023-09-05T08:39:26.786Z] Node Version:  v18.16.0
+[debug] [2023-09-05T08:39:26.787Z] Time:          Tue Sep 05 2023 17:39:26 GMT+0900 (대한민국 표준시)
+[debug] [2023-09-05T08:39:26.787Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-09-05T08:39:26.797Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-09-05T08:39:26.798Z] > authorizing via signed-in user (heo162635@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\EZEN\Desktop\sss\0905\03coupang
+
